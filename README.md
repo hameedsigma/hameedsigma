@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hallo Word! i'm hameed rizkiy👋
 
 <!--
 **hameedsigma/hameedsigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Dari bug menjadi fitur, dari ide menjadi inovasi. Siap
+        mengimplementasikan logika komputasi untuk dampak nyata. Mari
+        terkoneksi! 🚀 #TechInnovation #ProblemSolveR
+-seorang mahasiswa Informatika yang percaya bahwa kode adalah bahasa masa
+        depan. Bukan sekadar menulis program, tapi merancang arsitektur digital
+        yang cerdas dan efisien, Saya bersemangat mengubah tantangan kompleks
+        menjadi solusi otomatis yang elegan dan user-centric. Saat ini, saya
+        mencari platform profesional untuk meluncurkan ide-ide inovatif ke pasar
+        global dan membangun the next big thing, satu baris kode elegan pada
+        satu waktu.
 -->
